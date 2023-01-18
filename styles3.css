@@ -1,0 +1,37 @@
+header {
+
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: row; 
+    padding: 8px;
+
+
+}
+
+.note {
+
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-direction: row;
+    padding: 8px;
+    color: white;
+    background-color: purple;
+
+}
+
+.logo {
+
+    font-size: 48px;
+    color: purple;
+    font-weight: 100;
+
+}
+
+ul {
+
+    font-size: 12px;
+    color: purple;
+    
+}
