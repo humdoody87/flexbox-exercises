@@ -1,0 +1,30 @@
+.container {
+
+    width: 500px;
+    height: 500px;
+    background-color: gray;
+
+}
+
+.header {
+
+
+    font-size: 32px;
+    font-weight: 100;
+    font-style: bold;
+
+}
+
+.description {
+
+    font-size: 12px;
+
+}
+
+.buttons {
+
+    background-color: blue;
+    color: white;
+    
+}
+
