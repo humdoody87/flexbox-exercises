@@ -36,6 +36,8 @@ footer {
 
     background-color: gray;
     padding: 8px;
+    display: flex;
+    align-items: flex-end;
 
 }
 
