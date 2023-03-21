@@ -1,0 +1,72 @@
+.top-banner {
+
+    display: flex;
+    background-color: purple;
+    color: white;
+    padding: 5px;
+
+}
+
+.left-banner {
+
+    display: flex;
+    color: white;
+    background-color: blue;
+    text-decoration: none;
+    width: 100px;
+    height: 1000px;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+}
+
+.content-area {
+
+    display: flex;
+    flex-direction: row;
+
+}
+
+.box-one {
+
+    border: 1px solid black;
+
+}
+
+.box-two {
+
+    border: 1px solid black;
+
+}
+
+.box-three {
+
+    border: 1px solid black;
+}
+
+.box-four {
+
+    border: 1px solid black;
+
+}
+
+.box-five {
+
+    border: 1px solid black;
+
+}
+
+.box-six {
+
+    border: 1px solid black;
+
+}
+
+.bottom-banner {
+
+    color: purple;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    
+}
